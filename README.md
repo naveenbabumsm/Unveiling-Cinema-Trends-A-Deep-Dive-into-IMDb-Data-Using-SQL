@@ -43,7 +43,6 @@ The analysis is structured into four segments, each addressing specific business
 
 
 ## Author
-- **Naveen**: Developer and data analyst responsible for conducting the IMDb data analysis and creating the strategic recommendations.
+- **Naveen Babu**: Developer and data analyst responsible for conducting the IMDb data analysis and creating the strategic recommendations.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
