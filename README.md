@@ -1,4 +1,4 @@
-# Unveiling Cinema Trends: A Deep Dive into IMDb Data Using SQL
+# Unveiling Cinema Trends: A Deep Dive into IMDB Data Using SQL
 
 ## Project Overview
 An Indian film production company, known for producing several blockbuster movies, is planning its first global release in 2022. Traditionally focused on the Indian market, the company now aims to expand its reach to a global audience. To ensure the success of this new venture, the company has sought a data-driven approach to plan every aspect of the project.
@@ -16,7 +16,7 @@ The analysis is structured into four segments, each addressing specific business
 
 ## Files Included
 - **IMDB SQL Assignment Report.pdf**: A comprehensive project report that summarizes the objectives, methodology, findings, and recommendations derived from the analysis of IMDb data.
-- **IMDB answers naveen.sql**: The SQL script containing all the queries executed to perform the analysis.
+- **IMDB answers naveen.sql**: Summarizes the analysis, including key findings on genre popularity, industry trends, and strategic recommendations for the film industry.
 
 ## Project Structure
 - **SQL Scripts**: Contains the SQL queries used to extract insights from the IMDb database.
